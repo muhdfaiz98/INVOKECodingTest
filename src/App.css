@@ -1,0 +1,24 @@
+body{
+  background-color: #2F4F4F;
+  color: white;
+}
+
+.RandoContainer{
+  text-align: center;
+  background-color: #2E8B57;
+  margin: 300px;
+  padding: 5%;
+  display: flex;
+  flex-direction: column;
+}
+
+.Button{
+  background: #5F9EA0;
+  padding: 5px;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 10px;
+  border-color: #5F9EA0;
+  cursor: pointer;
+  margin: 10px;
+}
